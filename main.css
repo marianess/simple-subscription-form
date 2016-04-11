@@ -1,0 +1,16 @@
+html{
+    padding: 100px 0 0 0; /*top right bottom left*/
+    text-align: center;
+}
+
+#mc_embed_signup{
+    background:#fff; 
+    clear:left; 
+    font:14px Helvetica,Arial,sans-serif; 
+    width:100%;
+    
+    }
+#sec{
+     position: absolute; 
+     left: -5000px;
+ }
